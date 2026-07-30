@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/bruno-freitas-0344441a3/" target="_blank">Bruno Freitas</a>
  
 ## About Me
-Tenho 27 anos e sou bacharelado em Ciência da Computação pelo Centro Universitário do Piauí - UNIFAPI (Teresina, PI), formado em 2021. Atualmente, sou estudante em tecnologias como Banco de Dados e Python!
+Tenho 28 anos e sou bacharelado em Ciência da Computação pelo Centro Universitário do Piauí - UNIFAPI (Teresina, PI), formado em 2021. Atualmente, sou estudante em tecnologias como Banco de Dados e Python!
 <br>
 
 Perfil para registrar e compartilhar minhas experiências.
